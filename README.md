@@ -4,8 +4,8 @@ Official repository for our group project.
 
 ## 👥 Team
 - **Mariel** — Project Leader
-- **Miñoza** — Full-Stack Developer
-- **Hanupay** — UI/UX Designer
+- **Hanupay** — Full-Stack Developer
+- **Miñoza** — UI/UX Designer
 - **Arap** — Database Manager
 - **Tiwanag** — Tester & Documentation
 
